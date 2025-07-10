@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/slliks4">
-    <img src="https://img.shields.io/badge/Twitter-@serenanwokolo-blue?logo=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-@slliks4-blue?logo=twitter" alt="Twitter" />
   </a>
 </p>
 
