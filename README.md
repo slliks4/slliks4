@@ -5,6 +5,17 @@
 <marquee behavior="scroll" direction="left" scrollamount="5">✨ Welcome to my GitHub Profile! ✨</marquee>
 
 # Hi there, I'm Skills Nwokolo Anthony 👋
+Do not choose ease alone.
+Choose the work that teaches.
+
+Time is a tool, not a master.
+Complexity is a teacher, not a trophy.
+
+Understand to own. Make to learn.
+Because it is easy? Sometimes.
+For pleasure? Often.
+For fulfillment? Always.
+
 
 <p align="center">
   <a href="https://github.com/slliks4">
