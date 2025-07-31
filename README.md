@@ -37,17 +37,6 @@ For fulfillment? Always.
 🌐 [slliks4.com](https://www.slliks4.com)
 
 ---
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/slliks4"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/slliks4"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/slliks4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=slliks4\&show_icons=true\&theme=radical)
 
 
 <!--
